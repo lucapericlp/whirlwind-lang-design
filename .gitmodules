@@ -1,0 +1,3 @@
+[submodule "whirlwind-fortran"]
+	path = whirlwind-fortran
+	url = git@github.com:lucapericlp/whirlwind-fortran.git
