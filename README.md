@@ -1,6 +1,6 @@
 # A Whirlwind Journey
 Through the design space of programming languages as an antidote to the cultural
-nature of software-related communities. Questions of this nature:
+"pop" nature of software-related communities. Questions of this nature:
 - How have or haven't programming languages evolved over time?
 - What are some of the productive & counter-productive design principles we've
   seen?
